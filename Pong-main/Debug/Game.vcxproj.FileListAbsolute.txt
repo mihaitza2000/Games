@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\Game\Debug\Game.exe
+C:\Users\hp\source\repos\Game\Debug\Game.pdb
+C:\Users\hp\source\repos\Pong\Debug\Game.exe
+C:\Users\hp\source\repos\Pong\Debug\Game.pdb
+C:\Users\hp\Desktop\Tentative de jocuri\Pong\Debug\Game.exe
